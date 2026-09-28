@@ -1,0 +1,14 @@
+Average daily working hours: line and stacked column chart (X= DayName, Y= Average Working Hours, 2nd y axis= closing Time)
+                            Line chart (X = Name, Y = Average Working Hours, 2nd y axis= Arrival Time)
+
+Total Working hours = 
+
+Total abscence rate = Donut chart 
+Attendance trend = Line chart (X = Month, Y= total Attendance rate)
+
+Total punctuality rate = Donut
+
+Tracking of ExtraTime = line and stacked column chart (X = DayName, Y= ExtraTime)
+
+Filter: Name, Punctuality, and Month
+
